@@ -1,0 +1,10 @@
+# Local tooling and preview artifacts
+.gh-config/
+.edge-profile/
+.dsh-test/
+.git-credentials
+preview-*.png
+
+# OS files
+.DS_Store
+Thumbs.db
